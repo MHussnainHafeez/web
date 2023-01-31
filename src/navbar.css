@@ -1,0 +1,25 @@
+
+  .Nav ul{
+    margin-left: 100px;
+  }
+  .Nav ul>li{
+    margin-left: 10rem;
+  
+  }
+  .Nav a{
+    text-decoration: none;
+    color: white;
+    padding: 350px 150px 350px 150px;
+
+  }
+  .Nav ul>li{
+    display: inline;
+  
+  
+  }
+  .legend{
+    font-size: 50px;
+    background: linear-gradient(to right, rgb(169, 156, 156) , aqua, rgb(156, 147, 147));
+    background-color: black;
+
+  }

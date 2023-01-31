@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.container{
+  border-radius: 10px;
+  border-style: groove;
+  padding: 20px;
+  width: 400px;
+  
+margin-left: 465px;
+margin-top: 80px;
+background-color: rgb(238, 230, 230);
+}
+.container h2{
+  text-align: center;
+  color: rgb(73, 1, 1);
+}
+.container label{
+font-weight: bold;
+}
+.container input{
+  width: 90%;
+  padding: 6px 0px;
+  
+}
+.btns{
+  text-align: center;
+}
+.btns button{
+width: 40%;
+padding: 10px 0px;
+margin: 5px 0px;
+color: wheat;
+background-color: rgb(82, 12, 12);
+border-radius: 5px;
+}
+.btns button:hover{
+  font-size: 15px;
+  background-color: rgb(58, 46, 46);
+  text-decoration: underline;
+  border-style: groove;
+}
+.output h3{
+  font-family: monospace;
+  font-size: 20px;
+  
+}
+.output p{
+  color: rgb(161, 21, 21);
+  text-decoration: underline;
+  font-weight: bold;
+  padding: 10px;
+}
